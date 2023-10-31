@@ -1,0 +1,26 @@
+{
+  "name": "bc2023-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab4.js",
+  "scripts": {
+  
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lab4.js", 
+    "dev": "nodemon lab4.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-xml-parser": "^4.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+  
+  
+}
+
+
+
